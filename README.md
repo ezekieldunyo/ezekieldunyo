@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Ezekiel Dunyo
 
-<!--
-**ezekieldunyo/ezekieldunyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a software engineering student interested in building **practical web applications** and solving real-world problems with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** PHP, Laravel
+**Database:** MySQL
+**Tools:** Git, GitHub, VS Code
+
+### 🚀 What I'm Working On
+
+* Building full-stack web applications
+* Improving my JavaScript and backend skills
+* Learning Laravel and REST APIs
+* Building projects for my portfolio
+
+### 📌 Featured Projects
+
+* 🍽️ **FoodFusion** — Recipe & culinary community platform
+* 🧁 **SweetCrumbs** — Bakery website
+* 📊 **FlowBoard** — SaaS project management landing page
+
+### 📫 Connect With Me
+
+* 💼 [LinkedIn](#)
+* 🌐 [Portfolio](#)
+* 📧 [Email](mailto:your-email@example.com)
+
+> **Learn. Build. Improve.**
